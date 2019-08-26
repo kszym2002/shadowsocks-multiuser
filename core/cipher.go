@@ -6,8 +6,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/NetchX/shadowsocks-multiuser/shadowaead"
-	"github.com/NetchX/shadowsocks-multiuser/shadowstream"
+	"github.com/kszym2002/shadowsocks-multiuser/shadowaead"
+	"github.com/kszym2002/shadowsocks-multiuser/shadowstream"
 )
 
 type Cipher interface {
